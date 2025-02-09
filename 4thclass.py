@@ -40,3 +40,25 @@ print(student.keys())
 print(student.values())
 print(student.items())
 print(student.get("name"))
+
+
+#set
+
+collection = {1, 2, 3}
+collection.add(4)
+collection.remove(2)
+collection.clear()
+
+print(collection)
+print(type(collection))
+print(collection.pop())
+
+empty_set = set()   
+print(empty_set)
+
+
+set1 = {1, 2, 3, 4, 5}
+set2 = {4, 5, 6, 7, 8}
+
+print(set1.union(set2))
+print(set1.intersection(set2))

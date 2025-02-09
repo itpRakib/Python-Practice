@@ -102,3 +102,13 @@ else:
 grade=["C","D","A","A","B","B", "A"]
 grade.sort()
 print(grade)
+
+ #practice 13
+
+dictionary ={
+    "cat" : "a small animal",
+    "table" : ["a piece of furniture", "a chart"]
+}
+print(dictionary)
+
+

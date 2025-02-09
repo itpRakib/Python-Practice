@@ -1,3 +1,3 @@
-dict["name"] = "Rakibul Islam"
-dict["age"] = 23
-print(dict)
+empty_set = set()   
+# print(empty_set)
+
